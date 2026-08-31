@@ -1,2 +1,2 @@
 # JOURNEY MAP ลุงสมชาย สุขใจ
-<img src=images/Week5_Presentation.png>
+<img src=images/Journey.png>
