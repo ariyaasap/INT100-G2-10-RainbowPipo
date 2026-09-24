@@ -1,2 +1,2 @@
 # PoV statement
-<img src=images/PoVstatement.jpg>
+<img src=../images/PoVstatement.jpg>
